@@ -131,6 +131,3 @@ Bazowy URL: `http://localhost:5000/api`
 
 ---
 
-## 📝 Licencja
-
-MIT
